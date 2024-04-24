@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chen Haokun
 - 👀 I’m interested in computer vision
-- 🌱 I’m currently learning Point Cloud captioning
+- 🌱 I’m currently learning Multi-modal In-context Learning
 - 💞️ I am now a M.S. student at PALM lab, Department of Computer Science, Southeast University (SEU)
 - 📫 How to reach me: chenhaokun@seu.edu.cn
 
