@@ -1,10 +1,20 @@
-- 👋 Hi, I’m Chen Haokun
-- 👀 I’m interested in computer vision
-- 🌱 I’m currently learning Multi-modal In-context Learning
-- 💞️ I am now a M.S. student at PALM lab, Department of Computer Science, Southeast University (SEU)
-- 📫 How to reach me: chenhaokun@seu.edu.cn
+# Hi, I'm Chen Haokun 👋
 
-<!---
-haokunchen0/haokunchen0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I build AI-native content workflows: turning research into reviewable content, adapting it for different channels,
+and learning from distribution data.
+
+My current focus is the full content loop:
+
+**research → creation → review → channel packaging → distribution → analytics → next experiment**
+
+I work primarily with Codex and care about:
+
+- human-in-the-loop Agent workflows;
+- reproducible, versioned content operations on GitHub;
+- multimodal creation and practical AI products;
+- clear evidence, honest capability boundaries, and useful outcomes.
+
+My background includes graduate study in computer vision and multimodal learning at the PALM Lab, Southeast
+University.
+
+📫 chenhaokun@seu.edu.cn
