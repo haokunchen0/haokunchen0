@@ -1,7 +1,9 @@
 # Hi, I'm Chen Haokun 👋
 
-I build AI-native content workflows: turning research into reviewable content, adapting it for different channels,
-and learning from distribution data.
+I'm an algorithm engineer at Tencent, working on multimodal agents.
+
+I build practical agent systems and AI-native content workflows: turning research into reviewable content,
+adapting it for different channels, and learning from distribution data.
 
 My current focus is the full content loop:
 
@@ -14,7 +16,4 @@ I work primarily with Codex and care about:
 - multimodal creation and practical AI products;
 - clear evidence, honest capability boundaries, and useful outcomes.
 
-My background includes graduate study in computer vision and multimodal learning at the PALM Lab, Southeast
-University.
-
-📫 chenhaokun@seu.edu.cn
+Before Tencent, I studied computer vision and multimodal learning at the PALM Lab, Southeast University.
