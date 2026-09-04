@@ -24,22 +24,13 @@
 
 I'm an algorithm engineer at Tencent, working on multimodal agents.
 
-I build practical agent systems and AI-native content workflows: turning research into reviewable content, adapting it for different channels, and learning from distribution data.
+I build practical agent systems and AI-native content workflows: research, creation, review, packaging, distribution, then the next experiment.
 
 I work primarily with Codex. Before Tencent, I studied computer vision and multimodal learning at the PALM Lab, Southeast University.
 
 📫 [chenhaokun@agent.qq.com](mailto:chenhaokun@agent.qq.com)
 
 <br clear="both"/>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/loop-dark.svg" />
-    <img src="./assets/loop-light.svg" alt="How I work: research, creation, review, packaging, distribution, next experiment" />
-  </picture>
-</div>
-
-<br/>
 
 <div align="center">
   <picture>
