@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="195" viewBox="0 0 420 195" role="img" aria-label="Now building">
+  <rect width="420" height="195" rx="12" fill="#fffefe" stroke="#e4e2e2"/>
+  <text x="24" y="38" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="16" font-weight="600" fill="#2f80ed">Now building</text>
+  <circle cx="32" cy="68" r="5" fill="#2f80ed"/>
+  <text x="48" y="73" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="13" fill="#333">Multimodal agents at Tencent</text>
+  <circle cx="32" cy="100" r="5" fill="#219a6d"/>
+  <text x="48" y="105" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="13" fill="#333">AI-native content operations</text>
+  <circle cx="32" cy="132" r="5" fill="#e67e22"/>
+  <text x="48" y="137" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="13" fill="#333">Human-in-the-loop agent workflows</text>
+  <circle cx="32" cy="164" r="5" fill="#9b59b6"/>
+  <text x="48" y="169" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="13" fill="#333">Evidence over demos</text>
+</svg>
