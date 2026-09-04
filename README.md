@@ -17,69 +17,29 @@
   <img src="https://img.shields.io/badge/Lab-PALM%20%7C%20SEU-1f6feb?style=flat-square" alt="PALM Lab" />
 </p>
 
-```python
-profile = {
-    "name": "Chen Haokun",
-    "org": "Tencent",
-    "role": "Multimodal Agent Engineer",
-    "runtime": "Codex",
-    "loop": [
-        "research",
-        "creation",
-        "review",
-        "packaging",
-        "distribution",
-        "next experiment",
-    ],
-    "cares_about": [
-        "human-in-the-loop agents",
-        "versioned content operations",
-        "evidence over demos",
-    ],
-    "contact": "chenhaokun@agent.qq.com",
-}
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/now-dark.svg" />
+  <img align="right" width="380" alt="Now" src="./assets/now-light.svg" />
+</picture>
 
-<table>
-<tr>
-<td valign="top" width="33%">
+I'm an algorithm engineer at Tencent, working on multimodal agents.
 
-### Now
+I build practical agent systems and AI-native content workflows: turning research into reviewable content, adapting it for different channels, and learning from distribution data.
 
-- Multimodal agents at Tencent
-- AI-native content operations
-- Human-in-the-loop agent workflows
+I work primarily with Codex. Before Tencent, I studied computer vision and multimodal learning at the PALM Lab, Southeast University.
 
-I turn research into reviewable content, adapt it for channels, and learn from distribution data.
+📫 [chenhaokun@agent.qq.com](mailto:chenhaokun@agent.qq.com)
 
-</td>
-<td valign="top" width="34%">
+<br clear="both"/>
 
-### How I work
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/loop-dark.svg" />
+    <img src="./assets/loop-light.svg" alt="How I work: research, creation, review, packaging, distribution, next experiment" />
+  </picture>
+</div>
 
-`research → creation → review → packaging → distribution → next experiment`
-
-The loop is the product. Each round should leave evidence, not just a demo.
-
-</td>
-<td valign="top" width="33%">
-
-### Contact
-
-- Email: [chenhaokun@agent.qq.com](mailto:chenhaokun@agent.qq.com)
-- GitHub: [haokunchen0](https://github.com/haokunchen0)
-
-Previously: computer vision and multimodal learning at the PALM Lab, Southeast University.
-
-</td>
-</tr>
-</table>
-
-```mermaid
-flowchart LR
-  research --> creation --> review --> packaging --> distribution --> next["next experiment"]
-  next -.-> research
-```
+<br/>
 
 <div align="center">
   <picture>
