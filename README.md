@@ -16,8 +16,8 @@
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/loop-dark.svg" />
-  <img src="./assets/loop-light.svg" alt="research → creation → review → packaging → distribution → next experiment" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/content-loop-dark.svg" />
+  <img src="./assets/content-loop-light.svg" alt="research to creation to review to packaging to distribution to next experiment" />
 </picture>
 
 <div align="left">
