@@ -15,44 +15,71 @@
   <img src="https://img.shields.io/badge/Tencent-Algorithm-0052D9?style=flat-square&logo=tencentqq&logoColor=white" alt="Tencent" />
   <img src="https://img.shields.io/badge/Focus-Multimodal%20Agents-58A6FF?style=flat-square" alt="Focus" />
   <img src="https://img.shields.io/badge/Lab-PALM%20%7C%20SEU-1f6feb?style=flat-square" alt="PALM Lab" />
-  <img src="https://komarev.com/ghpvc/?username=haokunchen0&style=flat-square&color=58A6FF" alt="Profile views" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,docker,git,linux,vscode" alt="Skills" />
-</p>
+```python
+profile = {
+    "name": "Chen Haokun",
+    "org": "Tencent",
+    "role": "Multimodal Agent Engineer",
+    "runtime": "Codex",
+    "loop": [
+        "research",
+        "creation",
+        "review",
+        "packaging",
+        "distribution",
+        "next experiment",
+    ],
+    "cares_about": [
+        "human-in-the-loop agents",
+        "versioned content operations",
+        "evidence over demos",
+    ],
+    "contact": "chenhaokun@agent.qq.com",
+}
+```
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/content-loop-dark.svg" />
-  <img src="./assets/content-loop-light.svg" alt="research to creation to review to packaging to distribution to next experiment" />
-</picture>
+<table>
+<tr>
+<td valign="top" width="33%">
 
-<div align="left">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/now-dark.svg" />
-  <img align="right" alt="Now building" src="./assets/now-light.svg" />
-</picture>
+### Now
 
-### About
+- Multimodal agents at Tencent
+- AI-native content operations
+- Human-in-the-loop agent workflows
 
-I'm an algorithm engineer at Tencent, working on multimodal agents.
+I turn research into reviewable content, adapt it for channels, and learn from distribution data.
 
-I build practical agent systems and AI-native content workflows: turning research into reviewable content, adapting it for different channels, and learning from distribution data.
+</td>
+<td valign="top" width="34%">
 
-I work primarily with Codex, and I care about:
+### How I work
 
-- human-in-the-loop Agent workflows
-- reproducible, versioned content operations
-- multimodal creation and practical AI products
-- clear evidence, honest capability boundaries, useful outcomes
+`research → creation → review → packaging → distribution → next experiment`
 
-Before Tencent, I studied computer vision and multimodal learning at the PALM Lab, Southeast University.
+The loop is the product. Each round should leave evidence, not just a demo.
+
+</td>
+<td valign="top" width="33%">
 
 ### Contact
 
 - Email: [chenhaokun@agent.qq.com](mailto:chenhaokun@agent.qq.com)
 - GitHub: [haokunchen0](https://github.com/haokunchen0)
-</div>
+
+Previously: computer vision and multimodal learning at the PALM Lab, Southeast University.
+
+</td>
+</tr>
+</table>
+
+```mermaid
+flowchart LR
+  research --> creation --> review --> packaging --> distribution --> next["next experiment"]
+  next -.-> research
+```
 
 <div align="center">
   <picture>
