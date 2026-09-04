@@ -4,8 +4,15 @@
   </a>
 </div>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-developer-dark.jpg" />
+    <img src="./assets/hero-developer-light.jpg" alt="Chen Haokun building multimodal agents at Tencent" height="220" />
+  </picture>
+</div>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Tencent-Algorithm-0052D9?style=flat-square" alt="Tencent" />
+  <img src="https://img.shields.io/badge/Tencent-Algorithm-0052D9?style=flat-square&logo=tencentqq&logoColor=white" alt="Tencent" />
   <img src="https://img.shields.io/badge/Focus-Multimodal%20Agents-58A6FF?style=flat-square" alt="Focus" />
   <img src="https://img.shields.io/badge/Lab-PALM%20%7C%20SEU-1f6feb?style=flat-square" alt="PALM Lab" />
   <img src="https://komarev.com/ghpvc/?username=haokunchen0&style=flat-square&color=58A6FF" alt="Profile views" />
@@ -45,4 +52,11 @@ Before Tencent, I studied computer vision and multimodal learning at the PALM La
 
 - Email: [chenhaokun@agent.qq.com](mailto:chenhaokun@agent.qq.com)
 - GitHub: [haokunchen0](https://github.com/haokunchen0)
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/haokunchen0/haokunchen0/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/haokunchen0/haokunchen0/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
